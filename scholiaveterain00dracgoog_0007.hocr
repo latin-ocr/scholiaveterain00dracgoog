@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./scholiaveterain00dracgoog_0007.png"; bbox 0 0 2646 3882; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 931 2249 1886">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 931 136 1306">
+     <span class='ocr_line' id='line_1_1' title="bbox 2 931 136 1064; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 2 931 136 1064; x_wconf 43' lang='grc' dir='ltr'><em>ς</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 0 1066 122 1306; baseline 0 -148"><span class='ocrx_word' id='word_1_2' title='bbox 0 1066 122 1306; x_wconf 56' lang='grc' dir='ltr'><em>Ξ</em></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 4 1475 2249 1886">
+     <span class='ocr_line' id='line_1_3' title="bbox 15 1475 2249 1702; baseline 0.001 -26"><span class='ocrx_word' id='word_1_3' title='bbox 15 1475 224 1678; x_wconf 48' lang='lat' dir='ltr'><strong>{O</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 281 1577 801 1702; x_wconf 77' lang='lat' dir='ltr'><strong>IOANNI</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 855 1577 1557 1680; x_wconf 81' lang='lat' dir='ltr'><strong>LVDOVIOO</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1612 1579 2249 1680; x_wconf 79' lang='lat' dir='ltr'>HEIBERG</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 4 1709 1546 1886; baseline 0.003 -4"><span class='ocrx_word' id='word_1_7' title='bbox 4 1709 81 1819; x_wconf 41' lang='lat'><strong>‘⁶3</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1006 1809 1546 1886; x_wconf 80' lang='lat' dir='ltr'>PHILOLOGO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1233 2145 1314 2211">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1233 2145 1314 2211">
+     <span class='ocr_line' id='line_1_5' title="bbox 1233 2145 1314 2211; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 1233 2145 1314 2211; x_wconf 90' lang='lat' dir='ltr'><strong>D.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
